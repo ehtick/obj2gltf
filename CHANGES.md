@@ -1,6 +1,6 @@
 # Change Log
 
-### 3.2.0 - 2023-??-??
+### 3.2.0 - 2025-11-19
 
 - Added `doubleSidedMaterial` option to force materials to be rendered double sided. [#294](https://github.com/CesiumGS/obj2gltf/pull/294)
 - Strip file paths of any enclosing double-quotes to allow the mtl/texture files to be properly parsed [#297](https://github.com/CesiumGS/obj2gltf/pull/297)
